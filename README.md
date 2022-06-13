@@ -1,4 +1,4 @@
-/* Add Author and Project Details here */
+
 Author : Nelisha DSouza
 x-special/nautilus-clipboard
 copy
